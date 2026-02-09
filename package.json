@@ -1,0 +1,30 @@
+{
+  "name": "internship-week-6-8235",
+  "version": "1.0.0",
+  "description": "This week, we'll build a RESTful API using Node.js and Express.js. You will implement core backend concepts such as asynchronous programming (callbacks, Promises, async/await), middleware, routing, and database integration. We will connect to a database (e.g., MongoDB or PostgreSQL) to store and retrieve data. Algorithmic practice will focus on array manipulation and string algorithms to complement backend development challenges. The goal is to build a robust backend service that can handle various HTTP requests and interact with a database.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anilcodes01/internship-week-6-8235.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anilcodes01/internship-week-6-8235/issues"
+  },
+  "homepage": "https://github.com/Anilcodes01/internship-week-6-8235#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
